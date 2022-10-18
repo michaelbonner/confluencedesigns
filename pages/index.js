@@ -16,7 +16,7 @@ export default function Home() {
 
       <main className="min-h-screen w-full max-w-3xl mx-auto text-center flex items-center px-4">
         <div className="grid gap-8 md:gap-12">
-          <h1 className="text-5xl">Confluence Designs</h1>
+          <h1 className="text-5xl font-bold uppercase">Confluence Designs</h1>
           <p className="text-xl">
             Inspired by each sites&apos;s distinguishing qualities, Confluence
             Designs&apos; projects reveal an inherent respect for the sense of
